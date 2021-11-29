@@ -13,9 +13,9 @@ public class mensaje {
     			System.out.println("La suma total es: " + suma);
     				if(suma > 9)
     		{
-    			System.out.println("El Número Alcanza la Decena.");
+    			System.out.println("El NÃºmero Alcanza la Decena.");
     			System.out.println();
-    		}else{ System.out.println("El Número solo Alcanza la Unidad.");
+    		}else{ System.out.println("El NÃºmero solo Alcanza la Unidad.");
     		System.out.println();}
     		
     			cont = cont + 1;	
