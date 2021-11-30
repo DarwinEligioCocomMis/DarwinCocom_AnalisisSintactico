@@ -10,7 +10,7 @@ public class mensaje {
     			double num1 = Math.random() * 10; double num2 = Math.random() * 10;
     			suma = num1 + num2;
     			
-    			System.out.println("La suma total es: " + suma);
+    			System.out.println("LA SUMA TOTAL ES: " + suma);
     				if(suma > 9)
     		{
     			System.out.println("El Número Alcanza la Decena.");
